@@ -11,7 +11,7 @@ This project uses machine learning techniques to predict the recurrence of thyro
 ---
 
 ## 🎯 Problem Statement
-Recurrence of thyroid cancer is a major challenge in long-term patient management. The objective of this project is to predict whether a patient is likely to experience cancer recurrence using historical clinical data, enabling timely medical intervention. :contentReference[oaicite:0]{index=0}
+Recurrence of thyroid cancer is a major challenge in long-term patient management. The objective of this project is to predict whether a patient is likely to experience cancer recurrence using historical clinical data, enabling timely medical intervention. 
 
 ---
 
