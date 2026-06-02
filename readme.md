@@ -5,7 +5,7 @@ This project focuses on predicting **thyroid cancer recurrence** using patient d
 
 ---
 
-## 🔍 Summary (2 Lines)
+## 🔍 Summary
 This project uses machine learning techniques to predict the recurrence of thyroid cancer based on medical and demographic features. The solution aims to support early intervention and improved treatment planning.
 
 ---
